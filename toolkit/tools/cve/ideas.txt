@@ -1,1 +1,2 @@
 1) Download git commit as patch
+2) Download source tarball
