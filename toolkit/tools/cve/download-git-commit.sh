@@ -6,7 +6,7 @@
 PROG="download-git-commit.sh"
 
 # Programs
-CURL="/usr/bin/curl"
+CURL="/usr/bin/curl -s"
 RM="/usr/bin/rm"
 
 # Script input arguments
